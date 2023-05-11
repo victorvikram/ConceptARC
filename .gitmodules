@@ -1,3 +1,6 @@
 [submodule "arc-site"]
 	path = arc-site
 	url = https://github.com/victorvikram/arc-site.git
+[submodule "editor"]
+	path = editor
+	url = https://github.com/victorvikram/arc-site.git
