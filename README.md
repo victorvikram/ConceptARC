@@ -9,8 +9,8 @@ Information and supplementary files for Moskvichev, , A., Odouard, V. V., and Mi
 - **ARC Task Editor**, in the `editor` directory.  A visual editor that can be used to create or edit ARC tasks in a web browser.  This editor was developed by our group (and features some improvements over Chollet’s original ARC editor). The directory contains its own readme on how to use the editor (you simply open `index.html` in your browser). [Here is the original arc editor repository](https://github.com/victorvikram/arc-site.git).  
 
 ## URLs
-(arXiv preprint)[google.com]
-(Original ARC dataset)[https://github.com/fchollet/ARC]
+[arXiv preprint](google.com)
+[Original ARC dataset](https://github.com/fchollet/ARC)
 
 ## Citing the ConceptARC Corpus
 Anyone is free to use the ConceptARC corpus for research.  If you do use it, please cite this GitHub repository and our paper.   
