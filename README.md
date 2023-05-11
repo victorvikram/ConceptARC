@@ -1,5 +1,5 @@
 # ConceptARC
-Information and supplementary files for Moskvichev, , A., Odouard, V. V., and Mitchell, M., “The ConceptARC Benchmark: Systematically Evaluating Conceptual Understanding and Generalization in the ARC Domain”, 2023.  
+Information and supplementary files for Moskvichev, , A., Odouard, V. V., and Mitchell, M., “The ConceptARC Benchmark: Evaluating Understanding and Generalization in the ARC Domain”, 2023.  
 
 ## Files
 -	**ConceptARC Corpus**, in the `corpus` directory.  Each of the 16 concept groups consists of 10 tasks plus one “minimal” task.  Each task includes 1–4 demonstrations and 3 test inputs.   Each task is described in a .json file that is the same format as in the [original ARC dataset](https://github.com/fchollet/ARC).  The JSON format gives the demonstration grids under “train”.  Each demonstration consists of an “input” and “output” grid, where the grid rows are represented as lists of numbers inside square brackets.  Each number corresponds to a pixel color in the grid.  The test inputs are given under “test”, with input and output grids represented in the same way as in the “train” section.  
